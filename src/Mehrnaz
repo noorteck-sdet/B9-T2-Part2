@@ -1,1 +1,3 @@
 String firstName = "Naz";
+
+System.out.println("Low");
