@@ -14,5 +14,8 @@ public class HWB9T2Part2 {
 		System.out.println("Second code.....");
 
 	}
+	public void thirdMethod() {
+		System.out.println("second code...");
+	}
 
 }
