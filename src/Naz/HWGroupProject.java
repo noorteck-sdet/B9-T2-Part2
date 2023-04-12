@@ -16,3 +16,5 @@ public class HWGroupProject {
 
 }
 }
+public void secondMethod() {
+		System.out.println("New Comment");
