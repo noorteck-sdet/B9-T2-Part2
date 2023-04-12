@@ -7,6 +7,7 @@ public class MenoHwPart1 {
 		public static void push1() {
 			System.out.println("METHOD #1");
 		}
+		
 		public static void push2() {
 			System.out.println("METHOD #2");
 		}

@@ -16,4 +16,9 @@ public class TestClassGio {
 	}
 	
 	String LastName = " De freitas";
+	
+	
+	public void Rimsky() {
+		System.out.println("added a line of code");
+	}
 }
