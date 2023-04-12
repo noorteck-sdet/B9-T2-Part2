@@ -17,5 +17,7 @@ public class HWB9T2Part2 {
 	public void thirdMethod() {
 		System.out.println("second code...");
 	}
-
+	public void Luis() {
+		System.out.println("added a line of code");
+	}
 }
