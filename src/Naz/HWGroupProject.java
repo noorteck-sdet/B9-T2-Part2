@@ -15,6 +15,8 @@ public class HWGroupProject {
 		System.out.println("Test 2");
 
 }
-}
-public void secondMethod() {
+
+public void secondMethod1() {
 		System.out.println("New Comment");
+}
+}
