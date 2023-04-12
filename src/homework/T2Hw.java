@@ -15,4 +15,8 @@ public class T2Hw {
 		System.out.println("part 1");
 		System.out.println("changes Gio made");
 	}
+	
+	public static void Meno() {
+		System.out.println("TEST");
+}
 }
