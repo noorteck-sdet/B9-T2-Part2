@@ -6,5 +6,8 @@ public class Test1 {
 		int age =10;
 		
 	}
+	public void Luis() {
+		System.out.println("added a line of code");
+	}
 
 }

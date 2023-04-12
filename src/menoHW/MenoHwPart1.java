@@ -10,4 +10,7 @@ public class MenoHwPart1 {
 		public static void push2() {
 			System.out.println("METHOD #2");
 		}
+		public void Luis() {
+			System.out.println("added a line of code");
+		}
 }
