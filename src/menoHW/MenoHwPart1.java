@@ -13,4 +13,5 @@ public class MenoHwPart1 {
 		public void Luis() {
 			System.out.println("added a line of code");
 		}
+		String firstName = "willy";
 }
