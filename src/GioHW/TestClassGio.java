@@ -8,5 +8,7 @@ public class TestClassGio {
 	
 	public void Method2() {
 		System.out.println("Gio's second method");
+		
+		System.out.println("pegah");
 	}
 }
