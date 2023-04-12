@@ -11,4 +11,8 @@ public class T2Hw {
 		System.out.println("part 1");
 		System.out.println("change from Rimsky");
 	}
+	public void HW3() {
+		System.out.println("part 1");
+		System.out.println("changes Gio made");
+	}
 }
