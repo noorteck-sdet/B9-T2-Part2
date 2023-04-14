@@ -26,5 +26,9 @@ public class HWB9T2Part2 {
 
 	public static void Meno() {
 		System.out.println("TEST #2");
+		
+	}
+	public static void addingCodeToDev() {
+		System.out.println("First try");
 	}
 }
