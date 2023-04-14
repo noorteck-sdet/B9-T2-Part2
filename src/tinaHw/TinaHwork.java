@@ -7,4 +7,8 @@ public class TinaHwork {
 	
 	
 }
+	
+	public static void rimsky() {
+		System.out.println("adding a new line of cade");
+	}
 }
