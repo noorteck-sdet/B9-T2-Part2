@@ -20,4 +20,10 @@ public class T2Hw {
 	public static void Meno() {
 		System.out.println("TEST");
 }
+	
+	public static void adding() {
+		System.out.println("adding a new method");
+}
+	
+	
 }
