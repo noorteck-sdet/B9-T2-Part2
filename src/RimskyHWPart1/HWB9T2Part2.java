@@ -4,7 +4,7 @@ public class HWB9T2Part2 {
 	public static void main(String[] args) {
 
 	}
-	
+	String lastName = "de freitas";
 
 	public void firstmMethod() {
 		System.out.println("first code.....");
