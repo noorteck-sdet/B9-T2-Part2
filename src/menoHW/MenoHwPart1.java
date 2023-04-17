@@ -15,4 +15,6 @@ public class MenoHwPart1 {
 			System.out.println("added a line of code");
 		}
 		String firstName = "willy";
+		
+		String test = "THIS IS JUST A TEST BY MENO";
 }
