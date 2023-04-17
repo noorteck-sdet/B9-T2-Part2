@@ -24,6 +24,8 @@ public class T2Hw {
 	public static void adding() {
 		System.out.println("adding a new method");
 }
-	
+	public static void adding1() {
+		System.out.println("adding a new method");
+}
 	
 }
