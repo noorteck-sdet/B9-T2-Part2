@@ -21,4 +21,9 @@ public class TestClassGio {
 	public void Rimsky() {
 		System.out.println("added a line of code");
 	}
+	
+	public void getinfo1() {
+		System.out.println("First name");
+	}
+
 }
